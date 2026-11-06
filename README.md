@@ -1,13 +1,18 @@
 # Looking Curvy: Tracing Curved Protostellar Outflows
 
 <p align="center">
-  <img src="bothfit.png" width="80%">
+  <img src="bothfit.png" width="70%">
 </p>
 
 ## What is it?
 
-Short description.
-File breakdown.
+This code traces the boundary of protostellar outflows and fits power laws to those detected boundaries to trace the curved morphology of some protostellar outflows.
+
+CurveTracer.ipynb contains all the code needed to trace and fit protostellar outflows.
+
+Test_Data contains two sample FITS files: one with a redshifted outflow and one with a blueshifted outflow, both from Per-emb 5. These are the only two data files needed to test the code.
+
+bothfit.png shows the fits expected from the provided fits files.
 
 ## How do I install it?
 
@@ -16,6 +21,5 @@ Just download the repository; the Jupyter notebook contains all required install
 ## How do I use it?
 
 With great responsibility. The entire codebase is in a Jupyter notebook. Run each cell in the notebook.
-How to load in test files. For the test data the filepaths are: "Test_data/...".
-How to load in other files.
-What file format is expected.
+How to load test files: For the test data, the file paths are: "Test_data/...".
+How to load other files: The code expects standard FITS files.
