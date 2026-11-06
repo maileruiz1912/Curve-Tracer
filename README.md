@@ -21,5 +21,7 @@ Just download the repository; the Jupyter notebook contains all required install
 ## How do I use it?
 
 With great responsibility. The entire codebase is in a Jupyter notebook. Run each cell in the notebook.
+
 **How to load test files:** For the test data, the file paths are: "Test_data/...". The first cell of Chapter 2 in the notebook loads these.
+
 **How to load other files:** The code expects standard FITS files. Simply replace the test redshifted and blushifted FITS files first cell of Chapter 2 in the notebook with the names of your new files.
