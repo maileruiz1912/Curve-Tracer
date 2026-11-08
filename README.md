@@ -4,6 +4,8 @@
   <img src="bothfit.png" width="70%">
 </p>
 
+[![DOI](https://zenodo.org/badge/1303590029.svg)](https://doi.org/10.5281/zenodo.24047575)
+
 ## What is it?
 
 This code traces the boundary of protostellar outflows and fits power laws to those detected boundaries to trace the curved morphology of some protostellar outflows.
