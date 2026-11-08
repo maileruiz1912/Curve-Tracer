@@ -4,7 +4,9 @@
   <img src="bothfit.png" width="70%">
 </p>
 
-[![DOI](https://zenodo.org/badge/1303590029.svg)](https://doi.org/10.5281/zenodo.24047575)
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.24047575"><img src="https://zenodo.org/badge/1303590029.svg" alt="DOI"></a>
+</p>
 
 ## What is it?
 
